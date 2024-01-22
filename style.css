@@ -1,0 +1,23 @@
+.flex-container div {
+  display: flex;
+}
+
+.main {
+  background-color: #1f2937;
+}
+
+.extra-info {
+
+}
+
+.quote {
+  background-color: #e5e7eb;
+}
+
+.interact {
+
+}
+
+.footer {
+
+}
